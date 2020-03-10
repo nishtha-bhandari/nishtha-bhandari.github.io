@@ -1,6 +1,6 @@
 
 body {
-    	background-color: #222222;
+    	background-color: #80AEF0;
     	color: black;
 	}
 
@@ -18,5 +18,5 @@ a {
 	}
 
 a:hover{
-  	color: green;
+  	color: black;
 	}
